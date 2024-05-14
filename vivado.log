@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue May 14 23:33:53 2024
+# Process ID: 12224
+# Current directory: D:/vivado/GoliMar
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4880 D:\vivado\GoliMar\test.xpr
+# Log file: D:/vivado/GoliMar/vivado.log
+# Journal file: D:/vivado/GoliMar\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/vivado/GoliMar/test.xpr
+INFO: [Project 1-313] Project file moved from 'D:/vivado/Basys3-Joystick-Interfacing-main' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'.
+WARNING: [IP_Flow 19-2162] IP 'xadc_wiz_0' is locked:
+* IP definition 'XADC Wizard (3.0)' for IP 'xadc_wiz_0' (customized with software release 2015.1) has a newer minor version in the IP Catalog.
+open_project: Time (s): cpu = 00:00:36 ; elapsed = 00:00:25 . Memory (MB): peak = 1016.266 ; gain = 0.000
+update_compile_order -fileset sources_1

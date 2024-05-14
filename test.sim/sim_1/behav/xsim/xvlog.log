@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/Basys3-Joystick-Interfacing-main/test.srcs/sources_1/new/red_dot.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module red_dot
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/Basys3-Joystick-Interfacing-main/test.srcs/sim_1/new/ball_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ball_tb

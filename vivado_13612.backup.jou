@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri May 10 21:50:10 2024
+# Process ID: 13612
+# Current directory: D:/vivado/Basys3-Joystick-Interfacing-main
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4520 D:\vivado\Basys3-Joystick-Interfacing-main\test.xpr
+# Log file: D:/vivado/Basys3-Joystick-Interfacing-main/vivado.log
+# Journal file: D:/vivado/Basys3-Joystick-Interfacing-main\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/vivado/Basys3-Joystick-Interfacing-main/test.xpr
+update_compile_order -fileset sources_1
