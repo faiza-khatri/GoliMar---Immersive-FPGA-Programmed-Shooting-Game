@@ -1,7 +1,10 @@
-# Non-PMOD Joystck Driver for Basys3
+# Implementing a Shooting Game using the Basys 3 Digilent Board
 
-- Please refer to the pdf to get started.
 - The project can be opened in vivado and can be used as an input module for integration.
 
-Reference:
-https://github.com/Digilent/Basys3
+This project uses Verilog HDL to program the Digilent Basys 3. The inputs are in the form of the Dual Axis PS2 joysticks, operating on a data communication bus, and the FPGA buttons. USing these, the game invlves pixel mapping vga output such that there are two characters, enemies, that the player must kill, and friends that the player must save.
+
+The FSM is a Mealy Machine, and the state diagram is as follows:
+
+![Screenshot 2024-05-10 222619](https://github.com/faiza-khatri/GoliMar---Immersive-FPGA-Programmed-Shooting-Game/assets/161750227/d3450a69-e78c-40c9-994e-27c180323492)
+
